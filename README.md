@@ -19,11 +19,14 @@
 </p>
 
 <!-- GitHub Trophies -->
+<!-- Discontinued service -->
+<!--
 <p align="center">
   <a href="https://github.com/MarieLynneBlock/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=MarieLynneBlock&theme=nord&&column=9&row=1" />
   </a>
 </p>
+-->
 
 <br>
 
